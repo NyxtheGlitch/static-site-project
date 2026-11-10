@@ -1,4 +1,5 @@
 # Static Site on nginx
+https://roadmap.sh/projects/static-site-server
 
 A simple static site served by nginx on an AWS EC2 instance and deployed with rsync.
 
